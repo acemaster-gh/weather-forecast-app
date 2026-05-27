@@ -1,0 +1,27 @@
+{
+  "name": "weather-forecast-app",
+  "version": "1.0.0",
+  "description": "**Started:** 2026-05-24 &nbsp;|&nbsp; **Stack:** tailwind",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acemaster-gh/wheather-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/acemaster-gh/wheather-app/issues"
+  },
+  "homepage": "https://github.com/acemaster-gh/wheather-app#readme",
+  "devDependencies": {
+    "tailwindcss": "^4.3.0"
+  },
+  "dependencies": {
+    "@tailwindcss/cli": "^4.3.0"
+  }
+}
